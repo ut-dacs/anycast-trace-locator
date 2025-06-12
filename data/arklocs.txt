@@ -1,0 +1,274 @@
+hlz2-nz.ark.caida.org,-37.79,175.28,Hamilton,9500
+hkg4-cn.ark.caida.org,22.36,114.12,Hong Kong,212238
+lax4-us.ark.caida.org,33.92,-118.39,Los Angeles,212238
+bfi-us.ark.caida.org,47.61,-122.33,Seattle,209
+drs-de.ark.caida.org,51.03,13.73,Dresden,680
+bre-de.ark.caida.org,53.08,8.8,Bremen,31334
+dus-de.ark.caida.org,51.96,7.61,Munster,None
+cld5-us.ark.caida.org,32.72,-117.16,San Diego,20001
+ory8-fr.ark.caida.org,48.91,2.36,Paris,212238
+cgs-us.ark.caida.org,38.99,-76.94,College Park,6059
+lex-us.ark.caida.org,38.04,-84.5,Lexington,30600
+bed-us.ark.caida.org,42.46,-71.35,Concord,7922
+ams8-nl.ark.caida.org,52.39,4.79,Amsterdam,206238
+arn-se.ark.caida.org,59.33,18.06,Stockholm,2603
+abz2-uk.ark.caida.org,57.15,-2.09,Aberdeen,786
+okc2-us.ark.caida.org,35.39,-97.6,Oklahoma City,53449
+dub-ie.ark.caida.org,53.34,-6.26,Dublin,1213
+hfa-il.ark.caida.org,32.8,34.98,Haifa,1680
+lwc-us.ark.caida.org,38.97,-95.24,Lawrence,2495
+pna-es.ark.caida.org,42.82,-1.64,Pamplona,766
+hnd-jp.ark.caida.org,35.69,139.69,Tokyo,2500
+syd3-au.ark.caida.org,-33.92,151.19,Sydney,137409
+rdu3-us.ark.caida.org,35.73,-78.85,Apex,11426
+waw-pl.ark.caida.org,52.3,21.02,Warsaw,212238
+beg-rs.ark.caida.org,44.79,20.45,Belgrade,13004
+ord-us.ark.caida.org,41.88,-87.63,Chicago,20130
+nrt3-jp.ark.caida.org,35.69,139.69,Tokyo,2497
+sin-sg.ark.caida.org,1.35,103.82,Singapore,37989
+nrn-nl.ark.caida.org,51.98,5.97,Arnhem,1140
+rkv-is.ark.caida.org,64.14,-21.96,Reykjavik,15474
+rdu2-us.ark.caida.org,35.78,-78.64,Raleigh,16591
+nrt-jp.ark.caida.org,35.69,139.69,Tokyo,7660
+ygk-ca.ark.caida.org,44.23,-76.48,Kingston,31983
+cjj-kr.ark.caida.org,36.35,127.38,Daejeon,1237
+wbu-us.ark.caida.org,40.01,-105.27,Boulder,194
+scq-es.ark.caida.org,42.88,-8.54,Santiago de Compostela,766
+yyc-ca.ark.caida.org,51.29,-114.01,Airdrie,852
+dca-us.ark.caida.org,38.91,-77.04,Washington,11039
+cld3-us.ark.caida.org,33.03,-117.08,San Diego,20001
+aus-us.ark.caida.org,30.27,-97.74,Austin,11427
+cou2-us.ark.caida.org,38.96,-92.38,Columbia,2572
+bcb-us.ark.caida.org,37.25,-80.42,Blacksburg,7922
+bdl-us.ark.caida.org,41.76,-72.69,Hartford,22742
+gye-ec.ark.caida.org,-2.2,-79.9,Guayaquil,61468
+hnl-us.ark.caida.org,21.31,-157.86,Honolulu,6360
+iad-us.ark.caida.org,38.89,-77.43,Chantilly,10745
+igx2-us.ark.caida.org,35.99,-78.9,Durham,7018
+ida-us.ark.caida.org,43.47,-112.01,Idaho Falls,15305
+agb-de.ark.caida.org,48.37,10.9,Augsburg,680
+gva-ch.ark.caida.org,46.2,6.14,Geneva,25091
+bio-es.ark.caida.org,43.26,-2.94,Bilbao,12338
+bbu2-ro.ark.caida.org,44.48,26.1,Bucuresti,48161
+aep3-ar.ark.caida.org,-34.6,-58.38,Buenos Aires,7303
+mia2-us.ark.caida.org,25.78,-80.27,Miami,27750
+dmk-th.ark.caida.org,14.08,100.61,Klong Luang,4767
+cos-us.ark.caida.org,38.83,-104.82,Colorado Springs,7922
+dxb-ae.ark.caida.org,25.1,55.15,Dubai,15802
+acc2-gh.ark.caida.org,5.66,-0.18,Accra,None
+cdg-fr.ark.caida.org,43.3,5.37,Marseille,30781
+gig-br.ark.caida.org,-22.9,-43.21,Rio de Janeiro,1916
+bwi2-us.ark.caida.org,38.99,-76.94,College Park,27
+dac-bd.ark.caida.org,23.71,90.41,Dhaka,24122
+lgg-be.ark.caida.org,50.59,5.56,Liege,2611
+jfk-us.ark.caida.org,40.71,-74.01,New York,6939
+msy-us.ark.caida.org,29.97,-90.05,New Orleans,22773
+pit2-us.ark.caida.org,40.45,-79.95,Pittsburgh,5050
+lux-lu.ark.caida.org,49.61,6.12,Luxembourg,57965
+mad2-es.ark.caida.org,40.76,-3.78,Madrid,3352
+las-us.ark.caida.org,36.17,-115.14,Las Vegas,209
+eug-us.ark.caida.org,44.05,-123.09,Eugene,3582
+bcn-es.ark.caida.org,41.39,2.17,Barcelona,13041
+mdw-us.ark.caida.org,41.88,-87.63,Chicago,6200
+ams3-nl.ark.caida.org,52.37,4.9,Amsterdam,3333
+muc-de.ark.caida.org,48.14,11.58,Munich,209335
+bjl-gm.ark.caida.org,13.44,-16.68,Serrekunda,37309
+lej-de.ark.caida.org,51.34,12.37,Leipzig,680
+lwc2-us.ark.caida.org,38.97,-95.24,Lawrence,7018
+puw-us.ark.caida.org,46.73,-117.0,Moscow,20055
+pdx-us.ark.caida.org,45.55,-122.64,Portland,209
+iev-ua.ark.caida.org,50.45,30.52,Kiev,3326
+pvu3-us.ark.caida.org,40.25,-111.65,Provo,6510
+aep2-ar.ark.caida.org,-34.6,-58.38,Buenos Aires,3449
+ams7-nl.ark.caida.org,52.09,5.1,Utrecht,1103
+mty-mx.ark.caida.org,25.67,-100.31,Monterrey,22894
+ind-us.ark.caida.org,39.77,-86.16,Indianapolis,14333
+lax3-us.ark.caida.org,33.98,-118.45,Marina del Rey,4
+ams5-nl.ark.caida.org,52.37,4.9,Amsterdam,6830
+nic-cy.ark.caida.org,35.17,33.37,Nicosia,35432
+sav-us.ark.caida.org,32.2,-81.01,Bluffton,22646
+avv-au.ark.caida.org,-37.87,144.69,Hoppers Crossing,4804
+phl-us.ark.caida.org,39.95,-75.17,Philadelphia,7922
+ory4-fr.ark.caida.org,48.86,2.35,Paris,12322
+san4-us.ark.caida.org,32.72,-117.16,San Diego,20001
+san-us.ark.caida.org,32.72,-117.16,San Diego,1909
+per2-au.ark.caida.org,-31.95,115.86,Perth,7575
+asu-py.ark.caida.org,-25.34,-57.52,San Lorenzo,27733
+dar2-tz.ark.caida.org,-6.79,39.21,Dar es Salaam,37100
+sjc2-us.ark.caida.org,37.34,-121.89,San Jose,6939
+mhg-de.ark.caida.org,49.4,8.67,Heidelberg,3209
+ham-de.ark.caida.org,53.55,9.99,Hamburg,680
+scl3-cl.ark.caida.org,-33.47,-70.79,Santiago,27750
+sjo-cr.ark.caida.org,9.93,-84.09,San Jose,262149
+tpe-tw.ark.caida.org,24.8,120.96,Hsinchu,7539
+vie2-at.ark.caida.org,48.2,16.37,Vienna,679
+osl-no.ark.caida.org,59.91,10.64,Lysaker,224
+tlv-il.ark.caida.org,32.09,34.78,Tel Aviv,378
+pbh2-bt.ark.caida.org,27.47,89.64,Thimphu,136039
+ory7-fr.ark.caida.org,48.86,2.35,Paris,8228
+tnr-mg.ark.caida.org,-18.88,47.51,Antananarivo,37054
+sql-us.ark.caida.org,37.49,-122.24,Redwood City,1280
+snn-ie.ark.caida.org,52.67,-8.63,Limerick,1213
+per-au.ark.caida.org,-31.95,115.86,Perth,7575
+pry-za.ark.caida.org,-26.2,28.05,Johannesburg,33764
+zrh4-ch.ark.caida.org,47.38,8.54,Zurich,559
+med2-co.ark.caida.org,6.21,-75.57,Medellin,13489
+tij-mx.ark.caida.org,32.51,-117.04,Tijuana,395565
+pct2-us.ark.caida.org,40.35,-74.65,Princeton,88
+pct-us.ark.caida.org,40.34,-74.64,Princeton,88
+bma3-se.ark.caida.org,59.31,18.14,Nacka,1257
+uln-mn.ark.caida.org,47.92,106.91,Ulaanbaatar,55805
+lgw-uk.ark.caida.org,51.43,0.1,Sidcup,13285
+mem-us.ark.caida.org,35.12,-89.94,Memphis,14048
+bwi5-us.ark.caida.org,39.38,-76.71,Pikesville,701
+mnz-us.ark.caida.org,38.75,-77.48,Manassas,701
+wlg2-nz.ark.caida.org,-41.21,174.91,Lower Hutt,4771
+her2-gr.ark.caida.org,35.31,25.07,Heraklion,6867
+hel3-fi.ark.caida.org,60.22,24.73,Kauniainen,51728
+prn-xk.ark.caida.org,42.65,21.12,Prishtine,21246
+sea3-us.ark.caida.org,47.61,-122.33,Seattle,209
+san2-us.ark.caida.org,32.72,-117.16,San Diego,7018
+cld6-us.ark.caida.org,33.03,-117.08,San Diego,7018
+lke2-us.ark.caida.org,47.61,-122.33,Seattle,7922
+cdg3-fr.ark.caida.org,48.93,2.19,Houilles,3215
+hnl3-us.ark.caida.org,21.31,-157.81,Honolulu,6360
+boi-us.ark.caida.org,43.6,-116.32,Boise,396961
+ral-us.ark.caida.org,33.97,-117.33,Riverside,6106
+cys-us.ark.caida.org,41.13,-104.9,Cheyenne,194
+acv-us.ark.caida.org,40.87,-124.08,Humboldt,2153
+cou-us.ark.caida.org,38.95,-92.33,Columbia,26934
+ewr-us.ark.caida.org,40.74,-74.17,Newark,20473
+lax6-us.ark.caida.org,34.06,-118.24,Los Angeles,20473
+atl5-us.ark.caida.org,33.78,-84.4,Atlanta,2637
+dfw2-us.ark.caida.org,32.79,-96.79,Dallas,20473
+mex2-mx.ark.caida.org,20.56,-100.28,El Marques,20473
+lga2-us.ark.caida.org,40.78,-73.87,New York,3356
+ful-us.ark.caida.org,33.88,-117.89,Fullerton,2152
+mhk-us.ark.caida.org,39.2,-96.59,Manhattan,2495
+geg-us.ark.caida.org,47.66,-117.42,Spokane,None
+cdg4-fr.ark.caida.org,48.91,2.37,Paris,20473
+mia-us.ark.caida.org,25.78,-80.19,Miami,20080
+bur-us.ark.caida.org,34.14,-118.12,Pasadena,32361
+ams9-nl.ark.caida.org,52.39,4.67,Amsterdam,20473
+bkl-us.ark.caida.org,41.5,-81.61,Cleveland,32666
+atl7-us.ark.caida.org,33.78,-84.42,Atlanta,20473
+mel3-au.ark.caida.org,-37.82,144.92,Melbourne,20473
+sjc6-us.ark.caida.org,37.33,-121.89,San Jose,20473
+bom2-in.ark.caida.org,19.11,72.9,Mumbai,20473
+hsv-us.ark.caida.org,34.78,-86.57,Huntsville,18682
+jfk4-us.ark.caida.org,40.74,-74.01,New York,396961
+man-uk.ark.caida.org,53.5,-2.3,Swinton,20473
+cpv-br.ark.caida.org,-7.23,-35.88,Campina Grande,1916
+cwl-uk.ark.caida.org,51.49,-3.18,Cardiff,786
+lax5-us.ark.caida.org,34.07,-118.45,Los Angeles,52
+mad3-es.ark.caida.org,40.54,-3.65,Alcobendas,20473
+mdw2-us.ark.caida.org,41.85,-87.62,Chicago,396961
+lhr-uk.ark.caida.org,51.52,-0.07,London,20473
+xna-us.ark.caida.org,36.07,-94.18,Fayetteville,10508
+ord2-us.ark.caida.org,41.99,-87.96,Elk Grove Village,20473
+gum-gu.ark.caida.org,13.43,144.8,Mangilao,395400
+lga3-us.ark.caida.org,40.78,-73.87,New York,3356
+sbd2-us.ark.caida.org,34.18,-117.33,San Bernadino,2152
+sea4-us.ark.caida.org,47.61,-122.34,Seattle,20473
+lnk-us.ark.caida.org,40.82,-96.7,Lincoln,7896
+syr-us.ark.caida.org,43.05,-76.16,Syracuse,3629
+ilg-us.ark.caida.org,39.68,-75.75,Newark,34
+sna-us.ark.caida.org,33.65,-117.84,Irvine,299
+prg3-cz.ark.caida.org,50.1,14.39,Prague,2852
+sjc3-us.ark.caida.org,37.0,-122.06,Santa Cruz,5739
+yto-ca.ark.caida.org,43.65,-79.36,Toronto,20473
+mob-us.ark.caida.org,30.7,-88.18,Mobile,398940
+sin5-sg.ark.caida.org,1.32,103.7,Singapore,20473
+san9-us.ark.caida.org,32.78,-117.07,San Diego,396310
+tlv4-il.ark.caida.org,32.11,34.97,Tel Aviv,20473
+sjc5-us.ark.caida.org,37.43,-122.17,Stanford,32
+nat-br.ark.caida.org,-5.78,-35.2,Natal,1916
+sjc4-us.ark.caida.org,37.24,-121.78,Sunnyvale,396961
+sto-se.ark.caida.org,59.39,17.88,Stockholm,20473
+scl4-cl.ark.caida.org,-33.34,-70.7,Santiago,20473
+rec-br.ark.caida.org,-8.05,-34.9,Recife,1916
+syd4-au.ark.caida.org,-33.91,151.19,Sydney,20473
+waw2-pl.ark.caida.org,52.19,20.92,Warsaw,20473
+psa4-it.ark.caida.org,43.72,10.4,Pisa,None
+adl-au.ark.caida.org,-34.93,138.6,Adelaide,4764
+nbo-ke.ark.caida.org,-1.29,36.82,Nairobi,30844
+hkg5-cn.ark.caida.org,22.32,114.22,Hong Kong,9304
+kun-lt.ark.caida.org,54.88,23.93,Kaunas,8764
+zrh3-ch.ark.caida.org,47.38,8.54,Zurich,13030
+mru-mu.ark.caida.org,-20.24,57.49,Ebene,327821
+lcy2-uk.ark.caida.org,51.51,-0.13,London,786
+sin4-sg.ark.caida.org,1.3,103.79,Singapore,134148
+dbu-us.ark.caida.org,35.9,-78.86,Research Triangle Park,81
+ceu-us.ark.caida.org,34.68,-82.84,Clemson,12148
+ens-nl.ark.caida.org,52.22,6.89,Enschede,1133
+bos6-us.ark.caida.org,42.36,-71.06,Boston,701
+ley-nl.ark.caida.org,52.22,5.49,Nijkerk,1136
+oak5-us.ark.caida.org,37.8,-122.27,Oakland,46375
+dar-tz.ark.caida.org,-6.79,39.21,Dar es Salaam,327844
+acc-gh.ark.caida.org,5.6,-0.19,Accra,30997
+bdl2-us.ark.caida.org,41.83,-72.61,South Windsor,46690
+akl-nz.ark.caida.org,-36.85,174.76,Auckland,9503
+del-in.ark.caida.org,28.55,77.4,Noida,20473
+hnl4-us.ark.caida.org,21.34,-157.92,Honululu,20473
+bna2-us.ark.caida.org,36.87,-87.49,Hopkinsville,13781
+hou-us.ark.caida.org,29.82,-95.73,Houston,396961
+bzn-us.ark.caida.org,45.67,-111.05,Bozeman,395657
+pit-us.ark.caida.org,40.57,-80.11,Pittsburgh,7922
+dmk2-th.ark.caida.org,13.89,100.61,Bang Khen,63528
+nap2-it.ark.caida.org,40.93,14.47,Naples,3269
+prg-cz.ark.caida.org,50.08,14.44,Prague,25192
+vie-at.ark.caida.org,48.21,16.37,Vienna,35492
+pvu-us.ark.caida.org,40.17,-111.61,Springville,6315
+blr2-in.ark.caida.org,12.98,77.72,Bangalore,20473
+icn-kr.ark.caida.org,37.58,126.89,Seoul,20473
+lke3-us.ark.caida.org,47.66,-122.3,Seattle,73
+tus-us.ark.caida.org,32.16,-111.05,Tuscon,22773
+tul2-us.ark.caida.org,36.15,-95.99,Tulsa,7018
+rdu-us.ark.caida.org,35.82,-78.83,Morrisville,16591
+fra2-de.ark.caida.org,50.12,8.73,Frankfurt am Main,20473
+dps-id.ark.caida.org,-8.64,115.25,Kesiman Kertalangu,7713
+mia3-us.ark.caida.org,25.8,-80.23,Miami,20473
+sao-br.ark.caida.org,-23.55,-46.64,Sao Paulo,22548
+ebb-ug.ark.caida.org,0.33,32.59,Kampala,327687
+jfk2-us.ark.caida.org,40.72,-74.01,New York,62240
+atl2-us.ark.caida.org,33.85,-84.22,Tucker,7018
+lhe-pk.ark.caida.org,31.47,74.41,Lahore,135407
+lhe2-pk.ark.caida.org,31.47,74.41,Lahore,17557
+svo-ru.ark.caida.org,55.93,37.85,Korolev,43667
+tlv3-il.ark.caida.org,32.09,34.78,Tel Aviv,12400
+hyd-in.ark.caida.org,17.41,78.24,Hyderabad,55577
+jnb3-za.ark.caida.org,-26.14,28.2,Johannesburg,20473
+ens2-nl.ark.caida.org,52.24,6.85,Enschede,14593
+muc4-de.ark.caida.org,48.15,11.57,Munich,14593
+oun-us.ark.caida.org,35.2,-97.48,Norman,5078
+puw-ru.ark.caida.org,55.76,37.62,Moscow,34123
+fra-de.ark.caida.org,50.11,8.74,Frankfurt am Main,62240
+lgw2-uk.ark.caida.org,51.49,-0.02,London,62240
+stx-vi.ark.caida.org,17.72,-64.83,St. Croix,20243
+akl2-nz.ark.caida.org,-36.78,174.72,Glenfield,56030
+ktm-np.ark.caida.org,27.7,85.33,Kathmandu,45170
+bwi3-us.ark.caida.org,39.27,-76.8,Ellicott City,7922
+hnl2-us.ark.caida.org,21.39,-158.01,Waipahu,668
+den-us.ark.caida.org,39.73,-104.83,Aurora,668
+atl4-us.ark.caida.org,33.75,-84.39,Atlanta,668
+bwi4-us.ark.caida.org,39.51,-76.16,Aberdeen,668
+smf2-us.ark.caida.org,38.58,-121.53,West Sacramento,668
+ind2-us.ark.caida.org,39.72,-85.89,New Palestine,668
+san8-us.ark.caida.org,32.72,-117.16,San Diego,668
+sbd-us.ark.caida.org,34.06,-117.4,Bloomington,668
+sjj-ba.ark.caida.org,43.86,18.41,Sarajevo,9146
+qlr-pt.ark.caida.org,39.8,-8.9,Leiria,12353
+atl3-us.ark.caida.org,33.75,-84.39,Atlanta,7922
+lis-pt.ark.caida.org,39.46,-8.2,Abrantes,12353
+psa-it.ark.caida.org,43.62,10.29,Tirrenia,14593
+ind3-us.ark.caida.org,39.77,-86.16,Indianapolis,7018
+sao3-br.ark.caida.org,-23.49,-46.78,Osasco,20473
+lun-zm.ark.caida.org,-15.39,28.32,Lusaka,37532
+nrt4-jp.ark.caida.org,35.62,139.75,Tokyo,20473
+itm-jp.ark.caida.org,34.67,135.51,Osaka,20473
+arb4-us.ark.caida.org,42.28,-83.76,Ann Arbor,229
+ixc-in.ark.caida.org,30.34,76.38,Patiala,9829
+mnl-ph.ark.caida.org,14.68,121.04,Quezon City,9821
+arb3-us.ark.caida.org,42.23,-83.73,Ann Arbor,237
+hel-fi.ark.caida.org,60.21,24.65,Helsinki,None
+bfh-br.ark.caida.org,-25.43,-49.27,Curitiba,None
