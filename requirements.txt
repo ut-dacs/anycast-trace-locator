@@ -1,11 +1,8 @@
 beautifulsoup4
 duckdb
-folium
-geopy
 matplotlib
 numpy
 pandas
 py-radix
 requests
 scikit-learn
-scipy
