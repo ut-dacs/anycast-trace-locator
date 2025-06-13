@@ -4,3 +4,5 @@ data/2025-03-31_standard_location.json.gz
 ip_locations_ipv4.duckdb
 data/hoiho/
 data/ptr_records.csv
+data/2025-04-19_v4_locations.json
+data/root_server_locations
