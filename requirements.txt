@@ -6,3 +6,6 @@ pandas
 py-radix
 requests
 scikit-learn
+jupyterlab
+pyarrow
+geopy
