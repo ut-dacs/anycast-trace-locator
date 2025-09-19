@@ -30,7 +30,7 @@ They provide free access for academic, education, and non-commercial projects (h
 
 This work was a contribution of our ANRW'25 paper.
 Please use the following .bibtex when using this code.
-```bash
+```
 @inproceedings{10.1145/3744200.3744783,
 author = {Hendriks, Remi and Betzer, Tim and Du, Ben and Sommese, Raffaele and Jonker, Mattijs and van Rijswijk-Deij, Roland},
 title = {Locating and Enumerating Anycast: a Comparison of Two Approaches},
