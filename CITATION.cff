@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the following metadata."
+title: "Locating and Enumerating Anycast: a Comparison of Two Approaches"
+authors:
+  - family-names: Hendriks
+    given-names: Remi
+  - family-names: Betzer
+    given-names: Tim
+  - family-names: Du
+    given-names: Ben
+  - family-names: Sommese
+    given-names: Raffaele
+  - family-names: Jonker
+    given-names: Mattijs
+  - family-names: van Rijswijk-Deij
+    given-names: Roland
+type: conference-paper
+abstract: "Anycast allows for providing services from multiple, geographically distant Points of Presence (PoPs), using a single IP address, to, e.g., improve resilience. Due to its opaqueness, it is often unknown which addresses are provisioned using anycast and, if so, where the PoPs are located. As anycast is widely used for critical Internet infrastructures (e.g., the DNS) efforts have been made to map anycast deployments. The current state-of-the-art mapping technique, iGreedy, relies on latency-based measurements, and is adversely affected by noise caused by, e.g., network processing delays. Previous work has shown that traceroute can alternatively be used to detect anycast. As traceroute reveals the hops a packet traverses, it may also be used to locate sites using geolocation data for hops near the anycast PoPs. This paper is the first to assess the performance of the traceroute-based approach at scale, by targeting 14k prefixes from an anycast census. Using ground truth we show traceroute achieves a slight increase in enumeration and geolocation precision over iGreedy. However, it suffers from overestimating the number of PoPs and incurs a 4× increase in probing cost, making it unattractive for anycast censuses."
+conference:
+  name: "Proceedings of the 2025 Applied Networking Research Workshop"
+  location: "Madrid, Spain"
+  series: "ANRW '25"
+  pages: "99–105"
+  number-of-pages: 7
+date-released: 2025
+doi: "10.1145/3744200.3744783"
+isbn: "9798400720093"
+publisher:
+  name: "Association for Computing Machinery"
+  address: "New York, NY, USA"
+url: "https://doi.org/10.1145/3744200.3744783"
+keywords:
+  - Anycast
+  - Geolocation
+  - Traceroute
