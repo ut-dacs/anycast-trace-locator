@@ -1,5 +1,7 @@
 # Anycast Trace Locator
 
+[![DOI](https://img.shields.io/badge/DOI-10.1145/3744200.3744783-blue.svg)](https://doi.org/10.1145/3744200.3744783)
+
 This project started as an AIMS workshop project, and turned into an ANRW 2025 paper.
 We include both the measurement scamper code and the analysis code in this repository.
 
