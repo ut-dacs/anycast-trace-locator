@@ -2,8 +2,8 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1145/3744200.3744783-blue.svg)](https://doi.org/10.1145/3744200.3744783)
 
-This project started as an AIMS workshop project, and turned into an ANRW 2025 paper.
-We include both the measurement scamper code and the analysis code in this repository.
+This codebase provides our measurement and analysis code for performing anycast enumeration and geolocation using traceroute.
+We initially developped this during an AIMS workshop, and continued working on it as a [paper for ANRW'25](https://dl.acm.org/doi/abs/10.1145/3744200.3744783).
 
 ## Measurement
 
